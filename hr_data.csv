@@ -1,0 +1,16 @@
+Candidate_ID,Name,Age,Gender,Qualification,Experience,Department,Status,Salary_Offered
+1,Ravi,22,M,BTech,0,IT,Selected,300000
+2,Anitha,25,F,MCA,2,HR,Rejected,0
+3,John,28,M,MTech,4,IT,Selected,500000
+4,Sara,26,F,BTech,1,Finance,Rejected,0
+5,Arjun,30,M,MBA,5,HR,Selected,450000
+6,Priya,24,F,BCA,1,IT,Selected,350000
+7,Vikram,27,M,BTech,3,Finance,Selected,420000
+8,Divya,23,F,MCA,0,HR,Rejected,0
+9,Kiran,29,M,MTech,6,IT,Selected,600000
+10,Meena,26,F,MBA,2,Finance,Rejected,0
+11,Suresh,31,M,BTech,7,IT,Selected,700000
+12,Anjali,24,F,BCA,1,HR,Selected,320000
+13,Rahul,28,M,MCA,4,IT,Rejected,0
+14,Swathi,25,F,MTech,3,Finance,Selected,480000
+15,Naveen,30,M,MBA,5,HR,Selected,500000
